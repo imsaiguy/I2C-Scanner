@@ -1,5 +1,5 @@
 /*********************************************************************
-Optoguy
+Imsaiguy
 
 I2C scanner
 displays using OLED 128x64
